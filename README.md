@@ -12,6 +12,10 @@
 </p>
 <div id="top"></div>
 Leo is a functional, statically-typed programming language built for writing private applications.
+ALEO DEPLOY WORKSHOP SCREENSHOTS:
+<img width="797" alt="Screenshot 2023-12-03 at 4 48 20 PM" src="https://github.com/omar-ameen1/aleo-deploy-workshop/assets/99096427/e6c8560a-abba-42f4-aff4-fb95e369d96c">
+<img width="752" alt="Screenshot 2023-12-03 at 4 48 52 PM" src="https://github.com/omar-ameen1/aleo-deploy-workshop/assets/99096427/09f632e5-1b95-43c7-8b04-1b472ea19810">
+
 
 ## <a name='TableofContents'></a>Table of Contents
 
